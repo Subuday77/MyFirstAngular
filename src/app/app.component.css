@@ -3,4 +3,19 @@
     color: chartreuse;
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+#Line1{
+    color: chartreuse;
+}
+#Who {
+    text-align: center;
+    color: chartreuse;
+}
+#text1{
+    font-size: 40px;
+    font-weight: bold;
+}
+#text2{
+    font-size: 30px;
 }
